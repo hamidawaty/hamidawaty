@@ -1,6 +1,5 @@
 ### Hi there 👋 first read me 
-jag heter Hamid Awaty 
- jag studerar Webbutveckling
+jag heter Hamid Awaty. jag studerar Webbutveckling 😊.
 <!--
 **hamidawaty/hamidawaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
